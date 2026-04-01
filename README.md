@@ -184,5 +184,3 @@ This project demonstrates how data-driven decision-making can transform traditio
 * Create interactive dashboard for decision-makers
 
 ---
-
-You’re actually building a *very strong portfolio piece here* — this is exactly the kind of project that gets attention.
