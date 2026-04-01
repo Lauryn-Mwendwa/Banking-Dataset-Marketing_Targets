@@ -117,6 +117,24 @@ A probability threshold (~0.689) was chosen to balance:
 
 ---
 
+📊 Post-Model Analysis & Business Simulation
+🧠 What to write (use this directly)
+📊 Post-Model Analysis & Business Simulation
+
+To translate model predictions into actionable business decisions, additional analysis and visualizations were created:
+
+Calls Before vs After Targeting
+Compared the total number of calls in a mass outreach strategy versus a model-driven approach, highlighting a significant reduction in unnecessary calls.
+ROI Comparison
+Evaluated the financial performance of calling all customers versus targeting only high-probability customers, showing a clear improvement in overall returns.
+Conversion Rate by Probability Band
+Segmented customers based on predicted probabilities to understand how likelihood scores translate into actual conversions, confirming that higher probability groups yield significantly better results.
+
+📎 Supporting visuals included in:
+/visuals/
+
+---
+
 ## 🧠 Key Insights
 
 * Most customers have a low probability of subscribing → mass calling is inefficient
