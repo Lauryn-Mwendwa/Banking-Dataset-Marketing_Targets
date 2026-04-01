@@ -45,7 +45,7 @@ The relationship between existing financial obligations (loans) and likelihood t
 Age-based segmentation to identify high-converting customer groups
 
 📎 Visual report included in:
-`/visuals/powerbi_report.pdf`
+Visuals/EDA Power BI.pdf
 
 ---
 
