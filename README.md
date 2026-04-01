@@ -37,12 +37,12 @@ Improve the effectiveness of telephonic marketing campaigns.
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
-EDA was conducted using **Power BI** to uncover patterns in:
+EDA was conducted using Power BI to identify key drivers of customer conversion. The analysis explored demographic, behavioral, and temporal factors, including:
 
-* Customer demographics
-* Previous campaign outcomes
-* Contact methods
-* Subscription trends
+Conversion patterns across marital status, education level, and occupation
+The impact of campaign timing (monthly trends) on subscription rates
+The relationship between existing financial obligations (loans) and likelihood to subscribe
+Age-based segmentation to identify high-converting customer groups
 
 📎 Visual report included in:
 `/visuals/powerbi_report.pdf`
