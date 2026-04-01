@@ -1,6 +1,6 @@
 ## 📌 Project Title
 
-**Customer Subscription Prediction & Campaign Optimization**
+## **Customer Subscription Prediction & Campaign Optimization**
 
 ---
 
