@@ -118,7 +118,7 @@ A probability threshold (~0.689) was chosen to balance:
 ---
 
 
-### 📊 Post-Model Analysis & Business Simulation
+## 📊 Post-Model Analysis & Business Simulation
 
 To translate model predictions into actionable business decisions, additional analysis and visualizations were created:
 
